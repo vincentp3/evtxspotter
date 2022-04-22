@@ -29,12 +29,19 @@ Obtenir rapidemment des informations des journaux de sécurité sur une machine 
   - Médias externes
   - Actions d'impression
   - Accès à distance
+  - Démarrage
+  - Actions avec certificats
+  - Erreurs GPO
+  - Action cryptographiques 
+  - Actions powershell
+  - Intégrité du système
+  - [Source github à jour et avec csv](https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Events)
   - (-) Erreur de mise à jour de Windows.
   - (-) Actions particulières du FireWall voir [ici](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/assets/public/upload/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf#page=31)
   - (-) Signaturre du driver du kernel.
   - (-) Erreur de GPO
   - (-) Pass the Hash [ici](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/assets/public/upload/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf#page=37)
-  - [Source](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/assets/public/upload/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf)
+  - [Source pdf](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/assets/public/upload/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf)
 
 ## :rocket: Défis
 
